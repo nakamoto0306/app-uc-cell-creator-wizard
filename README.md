@@ -17,3 +17,5 @@ If a PERSON cell is created, the followings are displayed for quick access to th
     - Copy to clipboard button  
     - QR Code  
 ![Sample](doc/cellinfo.PNG)  
+
+1. Automatically register to Personium Directory.  
